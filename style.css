@@ -1,0 +1,104 @@
+img {
+  position: absolute;
+  top: 170px;
+  right: 830px;
+  padding: 10px;
+  border: 5px solid black;
+  width: 570px;
+
+}
+
+h5 {
+  position: absolute;
+  top:50px;
+  right:500px;
+  border:10px;
+  font-family: 'Garamond';
+  font-size: 20px;
+
+}
+
+h3 {
+  position: absolute;
+  top: 640px;
+  right: 600px;
+  font-family: 'Gerogia';
+  text-align: justify;
+  background-color: pink;
+  opacity: 0.75;
+  color: black;
+  border: 5px solid black;
+
+}
+
+
+h2 {
+  position: absolute;
+  top:250px;
+  right:405px;
+  color: yellow;
+  background-color: pink;
+  font-family: 'Gerogia';
+}
+
+title {
+  font-family: 'Gerogia';
+}
+
+p {
+  font-size: 25px;
+  color: brown;
+}
+
+body {
+  background-color: lightyellow;
+}
+
+.customImg{
+  position: absolute;
+  right: 600px;
+  top:10px;
+  width: 30px;
+  height: 30px;
+}
+
+p1 {
+  color: black;
+  position: absolute;
+  right:125px;
+  top:-245px;
+
+}
+
+a {
+  color: purple;
+  position: absolute;
+  top:325px;
+  right:-40px;
+  width: 150px;
+  font-family: 'Garamond';
+  border: 3px solid black;
+
+}
+
+.bug{
+  position: absolute;
+  right: 200px;
+  top:70px;
+}
+
+button {
+  position: absolute;
+  right: 100px;
+  top: 225px;
+  width: 100px;
+  color: purple;
+  padding: 5px;
+  background-color: yellow;
+  font-family: "century gothic";
+  font-size: 15px;
+}
+
+button:hover {
+  background-color: white;
+}
